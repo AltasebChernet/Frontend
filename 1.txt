@@ -2,3 +2,5 @@ file is to be here
 this is second line
 
 this is line 3
+
+file 1 line 6
