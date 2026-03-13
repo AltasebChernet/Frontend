@@ -1,0 +1,4 @@
+
+function isActive() {
+    return true;
+}
