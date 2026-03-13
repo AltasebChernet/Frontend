@@ -1,6 +1,0 @@
-this is file 2 from feature branch
-
-
-this is file 2 line 4
-
-this is file 2 line 6
