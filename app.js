@@ -6,3 +6,6 @@ function isActive() {
 module.exports = {
     isActive
 };
+"use strict";
+
+var app = angular.module('app', ['ngRoute']);
