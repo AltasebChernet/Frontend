@@ -28,3 +28,31 @@ app.config(function ($routeProvider) {
 app.controller('HomeController', function ($scope) {
     $scope.message = 'Welcome to the Home Page!';
 });
+  return false;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+module.exports = {
+  isActive
+};

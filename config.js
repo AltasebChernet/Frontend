@@ -14,3 +14,4 @@ license: "ISC";
 
 // This is a sample package.json file for a Node.js project. It includes basic information about the project, such as its name, version, description, main entry point, and scripts for starting the application and running tests. You can customize this file according to your project's needs.
 
+// This is package.json file for a Node.js project. It includes basic information about the project, such as its name, version, description, main entry point, and scripts for starting the application and running tests. You can customize this file according to your project's needs.
