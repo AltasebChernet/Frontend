@@ -7,12 +7,13 @@ file 1 line 6
 this line update from main
 
 
-this is line 10 after stash
+this is line then before stash
 
 
 
 line number 14
 
+🗑️
 
 
 
